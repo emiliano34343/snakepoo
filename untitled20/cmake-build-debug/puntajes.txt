@@ -1,0 +1,3 @@
+EMI 20
+emi 0
+isai 10

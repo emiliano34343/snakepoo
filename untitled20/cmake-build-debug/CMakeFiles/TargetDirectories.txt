@@ -1,0 +1,3 @@
+C:/Users/gudio/CLionProjects/untitled20/cmake-build-debug/CMakeFiles/untitled20.dir
+C:/Users/gudio/CLionProjects/untitled20/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/gudio/CLionProjects/untitled20/cmake-build-debug/CMakeFiles/rebuild_cache.dir
